@@ -6,6 +6,18 @@ This folder contains the solution for the following problem:
 
 ## Timing Results
 
+### JLS Community of Practice
+
+| Method | Time |
+| - | - |
+| Florian | 0.02133ms |
+| Ivan | 0.03528ms |
+| Dylan | 0.05106ms |
+| Stefanie | 0.02133ms |
+| Lino | 0.02374ms |
+
+### Flo's dev tests
+
 | Method | Time |
 | - | - |
 | JS v3.5 | ~2.2993ms = 0.0023s |
